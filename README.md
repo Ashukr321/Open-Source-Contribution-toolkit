@@ -20,6 +20,5 @@ A curated set of programs, issue trackers, guides, and best practices to help yo
 - [20 Open Source Projects You Shouldn't Miss in 2024 (Dev.to)](https://dev.to/anmolbaranwal/20-open-source-projects-you-shouldnt-miss-in-2024-3ja4)
 - [Paid Open Source Projects List](https://github.com/kunovsky/paid-open-source-projects)
 
-## Jobs & Opportunities
-- [Accenture Careers 2025 — Hiring Freshers](https://futuretechcareers.in/accenture-careers-2025-hiring-freshers-job-notification/)
+
 
